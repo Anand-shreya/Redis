@@ -63,8 +63,6 @@ This project is a simplified, educational implementation of an in-memory databas
 
 3.  Use the implemented Redis commands.
 
-![image](https://github.com/user-attachments/assets/e627ef8e-eb0a-4974-9a8d-81f3e3187aa5)
-
 
 ## Project Structure
 
