@@ -38,7 +38,7 @@ This project is a simplified, educational implementation of an in-memory databas
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/harshita9104/Redis_Golang.git
+    https://github.com/Anand-shreya/Redis.git
     ```
 
 2.  Build the server:
